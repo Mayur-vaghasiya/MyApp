@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Activity.MainActivity">
+    <item
+        android:id="@+id/Register"
+        android:actionLayout="@color/AshGrey"
+        android:title="Registration"
+        app:showAsAction="collapseActionView"
+        >
+
+    </item>
+
+    <item
+        android:id="@+id/showdata"
+        android:actionLayout="@color/AshGrey"
+        android:title="Showdata"
+        app:showAsAction="collapseActionView"
+        >
+
+    </item>
+</menu>
